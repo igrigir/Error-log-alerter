@@ -1,0 +1,11 @@
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\bin\Debug\Config.ini
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\bin\Debug\Error Logger.exe.config
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\bin\Debug\Error Logger.exe
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\bin\Debug\Error Logger.pdb
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error Logger.csproj.AssemblyReference.cache
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error_Logger.Form1.resources
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error_Logger.Properties.Resources.resources
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error Logger.csproj.GenerateResource.cache
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error Logger.csproj.CoreCompileInputs.cache
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error Logger.exe
+C:\Users\igor\Documents\GitHub\Stack2\Error Logger\Error Logger\obj\Debug\Error Logger.pdb
